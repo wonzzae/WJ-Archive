@@ -1,0 +1,8 @@
+이 밑에 url 을 새창에서 실행
+
+https://pungent-gentile-hydrogen.ngrok-free.dev/docs
+
+https://pungent-gentile-hydrogen.ngrok-free.dev/gradio
+
+토큰 : 3DLkLAprOS0Nvz1nbA8JmwSm8n1_2W1LEUgATFFVrTMbS9ucc
+
